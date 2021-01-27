@@ -5,7 +5,7 @@ import { Catalog, pageLoader } from "catalog";
 const pages = [
   {
     path: "/",
-    title: "Welcome",
+    title: "OpenInfra Brand Guide",
     content: pageLoader(() => import("./WELCOME.md"))
   }
 ];
