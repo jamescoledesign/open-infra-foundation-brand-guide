@@ -5,9 +5,15 @@ import { Catalog, pageLoader } from "catalog";
 const pages = [
   {
     path: "/",
-    title: "Open Infrastructure Foundation",
+    title: "Introduction",
     content: pageLoader(() => import("./WELCOME.md"))
+  }, 
+  {
+    path: '/Pages/logo.md',
+    title: "Logo",
+    content: pageLoader(() => import("./Pages/logo.md"))
   }
+
 ];
 
 ReactDOM.render(
@@ -17,14 +23,14 @@ ReactDOM.render(
   theme={{
       textColor: "#000102",
       background: "#f6f6f6",
-      linkColor: "#EC1944",
-      pageHeadingBackground: "#EC1944",
-      pageHeadingTextColor: "#fff",
-      navBarBackground: "#EEEEEE",
+      linkColor: "#f15b3e",
+      pageHeadingBackground: "#161616",
+      pageHeadingTextColor: "#ffffff",
+      navBarBackground: "#f6f6f6",
       navBarTextColor: "#133e68",
-      fontFamily: "'Open Sans', sans-serif",
-      fontHeading: "'Open Sans bold', sans-serif",
-      fontMono: "'Source Code Pro', monospace"      
+      fontFamily: "'Roboto', 'Helvetica', sans-serif",
+      fontHeading: "'Roboto bold', 'Helvetica bold', sans-serif",
+      fontMono: "'Source Code Pro', monospace",    
     }} 
   />,
   document.getElementById("catalog")
