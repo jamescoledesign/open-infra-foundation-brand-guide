@@ -1,1 +1,17 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><style>.cls-1{fill:#f7b749;}.cls-2{fill:#ed362f;}.cls-3{fill:#43b85c;}.cls-4{fill:#2cb4e2;}</style></defs><polygon class="cls-1" points="0 33.33 0 50 114.64 50 0 164.64 11.79 176.43 154.88 33.33 0 33.33"/><polygon class="cls-2" points="171.55 16.67 188.22 0 0 0 0 16.67 171.55 16.67"/><polygon class="cls-3" points="183.33 28.45 183.33 200 200 200 200 11.78 183.33 28.45"/><polygon class="cls-4" points="166.67 200 166.67 45.12 23.57 188.21 35.35 200 150 85.36 150 200 166.67 200"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 174 118.2" style="enable-background:new 0 0 174 118.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F7B749;}
+	.st1{fill:#ED362F;}
+	.st2{fill:#43B85C;}
+	.st3{fill:#2CB4E2;}
+</style>
+<g>
+	<polygon class="st0" points="48.1,53.3 48.1,59.7 92.7,59.7 48.1,104.4 52.6,108.9 108.4,53.3 	"/>
+	<polygon class="st1" points="114.9,46.8 121.4,40.3 48.1,40.3 48.1,46.8 	"/>
+	<polygon class="st2" points="119.4,51.3 119.4,118.1 125.9,118.1 125.9,44.8 	"/>
+	<polygon class="st3" points="112.9,118.1 112.9,57.8 57.3,113.6 61.8,118.1 106.5,73.5 106.5,118.1 	"/>
+</g>
+</svg>
