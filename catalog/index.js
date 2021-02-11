@@ -13,6 +13,7 @@ const pages = [
 ReactDOM.render(
   <Catalog title="Brand Guidelines" 
   pages={pages} 
+  logoSrc="OpenInfrastructureFoundation-icon-RGB.svg" 
   theme={{
       textColor: "#000102",
       background: "#f6f6f6",
