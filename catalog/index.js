@@ -30,7 +30,7 @@ ReactDOM.render(
       sidebarColorText: "#000102",
       brandColor: "#000102",
       background: "#f6f6f6",
-      linkColor: "#f15b3e",
+      linkColor: "#e61e24",
       pageHeadingBackground: "#161616",
       pageHeadingTextColor: "#ffffff",
       navBarBackground: "#eaeaea",
