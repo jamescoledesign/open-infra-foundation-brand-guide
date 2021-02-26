@@ -12,6 +12,11 @@ const pages = [
     path: '/Pages/logo.md',
     title: "Logo",
     content: pageLoader(() => import("./Pages/logo.md"))
+  },
+  {
+    path: '/Pages/colors.md',
+    title: "Colors",
+    content: pageLoader(() => import("./Pages/colors.md"))
   }
 
 ];
@@ -22,12 +27,14 @@ ReactDOM.render(
   logoSrc="OpenInfrastructureFoundation-logo-RGB-horiz3.svg"
   theme={{
       textColor: "#000102",
+      sidebarColorText: "#000102",
+      brandColor: "#000102",
       background: "#f6f6f6",
       linkColor: "#f15b3e",
       pageHeadingBackground: "#161616",
       pageHeadingTextColor: "#ffffff",
-      navBarBackground: "#f6f6f6",
-      navBarTextColor: "#133e68",
+      navBarBackground: "#eaeaea",
+      navBarTextColor: "#000102",
       fontFamily: "'Roboto', 'Helvetica', sans-serif",
       fontHeading: "'Roboto bold', 'Helvetica bold', sans-serif",
       fontMono: "'Source Code Pro', monospace",    
