@@ -48,7 +48,7 @@ span: 2
 ```
 
 ```download
-title: Download color swatches (.ace)
-subtitle: 45.1 MB
-url: /assets/logos/foundation-logos/Open-Infrastructure-Foundation-Logos.zip
+title: Download ASE color swatches (.zip)
+subtitle: 2 KB
+url: /assets/colors/Open-Infrastructure-Foundation-Colors.zip
 ```
