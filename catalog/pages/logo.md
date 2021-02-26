@@ -1,4 +1,4 @@
-#### **HORIZONTAL LOGOS**  
+#### **Horizontal Logos**  
 
 ###### Primary:
 
@@ -32,7 +32,7 @@ src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-horiz
 ---  
 
 
-#### **STACKED LOGO**
+#### **Stacked Logo**
 
 ```image
 light: true
