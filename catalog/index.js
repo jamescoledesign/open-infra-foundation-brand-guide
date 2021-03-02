@@ -17,8 +17,12 @@ const pages = [
     path: '/Pages/colors.md',
     title: "Colors",
     content: pageLoader(() => import("./Pages/colors.md"))
+  },
+  {
+    path: '/Pages/fonts.md',
+    title: "Fonts",
+    content: pageLoader(() => import("./Pages/fonts.md"))
   }
-
 ];
 
 ReactDOM.render(
