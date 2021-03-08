@@ -1,5 +1,5 @@
 {
-  "name": "open-infra-foundation-brand-guide",
+  "name": "example-project",
   "description": "",
   "dependencies": {
     "catalog": "^3.6.0",
@@ -8,6 +8,6 @@
   },
   "scripts": {
     "catalog-start": "catalog start",
-    "catalog-build": "yarn catalog build"
+    "catalog-build": "catalog build"
   }
 }
