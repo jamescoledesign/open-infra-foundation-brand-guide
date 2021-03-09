@@ -1,6 +1,6 @@
 {
-  "name": "example-project",
-  "description": "",
+  "name": "oif-brand-guide",
+  "description": "The official brand guide for the Open Infrastructure Foundation",
   "dependencies": {
     "catalog": "^3.6.0",
     "react": "^17.0.1",
