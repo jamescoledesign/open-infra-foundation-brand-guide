@@ -9,6 +9,11 @@ const pages = [
     content: pageLoader(() => import("./WELCOME.md"))
   }, 
   {
+    path: '/pages/about.md',
+    title: "About the Foundation",
+    content: pageLoader(() => import("./pages/about.md"))
+  },
+  {
     path: '/pages/logo.md',
     title: "Logo",
     content: pageLoader(() => import("./pages/logo.md"))
