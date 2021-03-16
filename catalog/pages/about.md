@@ -7,4 +7,7 @@ The Open Infrastructure Foundation promotes the global development, distribution
 
 In December 2017, the foundation began incubating new Strategic Focus Areas, starting with Container Infrastructure, CI/CD and Edge Computing. The Strategic Focus Areas include include new pilot projects and communities, the first of which are Kata Containers, Zuul and the Edge Computing Group. 
 
-[Image of project logos]
+```image
+plain: true
+src: "/assets/Images/Purpose.png"
+``` 
