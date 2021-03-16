@@ -9,19 +9,19 @@ const pages = [
     content: pageLoader(() => import("./WELCOME.md"))
   }, 
   {
-    path: '/Pages/logo.md',
+    path: '/pages/logo.md',
     title: "Logo",
-    content: pageLoader(() => import("./Pages/logo.md"))
+    content: pageLoader(() => import("./pages/logo.md"))
   },
   {
-    path: '/Pages/colors.md',
+    path: '/pages/colors.md',
     title: "Colors",
-    content: pageLoader(() => import("./Pages/colors.md"))
+    content: pageLoader(() => import("./pages/colors.md"))
   },
   {
-    path: '/Pages/fonts.md',
+    path: '/pages/fonts.md',
     title: "Fonts",
-    content: pageLoader(() => import("./Pages/fonts.md"))
+    content: pageLoader(() => import("./pages/fonts.md"))
   }
 ];
 
