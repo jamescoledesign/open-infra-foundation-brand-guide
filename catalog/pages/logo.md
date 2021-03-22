@@ -101,6 +101,16 @@ span: 6
 src: "/assets/images/clear-space.png"
 ```
 
+#### **Logo Don'ts**  
+
+Do not edit the logo in any way. Do not create new versions, outline the logo, use effects, warp the logo, rotate the logo, or use unapproved colors. 
+
+```image
+plain: true
+span: 6
+src: "/assets/images/logo-donts.png"
+```
+
 
 #### **Download**  
 
