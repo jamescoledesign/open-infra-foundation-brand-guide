@@ -70,7 +70,7 @@ src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-stack
 ```  
 ---
 
-###### **Full Horizontal:**
+###### **FULL HORIZONTAL:**
 
 ```image
 light: true
