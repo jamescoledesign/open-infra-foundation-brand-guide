@@ -114,7 +114,7 @@ src: "/assets/images/logo-donts.png"
 
 #### **Download**  
 
-By downloading the logos you agree to abide by the terms and conditions. 
+By downloading the logos you agree to abide by the terms and conditions of the [OpenStack Trademark Policy](https://www.openstack.org/brand/openstack-trademark-policy/). 
 
 
 ```download
