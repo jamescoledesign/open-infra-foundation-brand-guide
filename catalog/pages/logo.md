@@ -70,6 +70,20 @@ src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-stack
 ```  
 ---
 
+###### **Full Horizontal:**
+
+```image
+light: true
+span: 2.5   
+src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-horiz1.svg"
+```
+
+```image
+dark: true
+span: 2.5
+src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-horiz1-w.svg"
+```
+---
 
 ###### **ICON:**
 
@@ -92,6 +106,7 @@ There should always be a margin of clear space surrounding the logos to ensure l
 - **Icon:**  No less than 50% of the overall height 
 - **Primary Logo:** No less than 50% of the overall height
 - **Stacked Logo:**  No less than 25% of the overall height 
+- **Secondary Logo:**  No less than 50% of the overall height 
 - **Full Horizontal Logo:** No less than 100% of the overall height  
 
 
