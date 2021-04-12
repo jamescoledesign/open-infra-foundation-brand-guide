@@ -14,9 +14,29 @@ const pages = [
     content: pageLoader(() => import("./pages/about.md"))
   },
   {
-    path: '/pages/logo.md',
-    title: "Logo",
-    content: pageLoader(() => import("./pages/logo.md"))
+    title: 'Logo',
+    pages: [
+      {
+      path: '/pages/logo-overview.md',
+      title: "Overview",
+      content: pageLoader(() => import("./pages/logo-overview.md"))
+      },
+      {
+      path: '/pages/logo-versions.md',
+      title: "Versions",
+      content: pageLoader(() => import("./pages/logo-versions.md"))
+      },
+      {
+      path: '/pages/logo-usage.md',
+      title: "Usage",
+      content: pageLoader(() => import("./pages/logo-usage.md"))
+      },
+      {
+      path: '/pages/logo-download.md',
+      title: "Download",
+      content: pageLoader(() => import("./pages/logo-download.md"))
+      }
+    ]
   },
   {
     path: '/pages/colors.md',
