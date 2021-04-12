@@ -77,7 +77,3 @@ dark: true
 span: 1
 src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-icon-RGB-w.png"
 ```
-
-#### **Member Logos**  
-
-In addition to our primary logos, we also have member logos available for each member level: Silver, Gold, and Platinum. 
