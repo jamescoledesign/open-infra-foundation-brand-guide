@@ -26,7 +26,7 @@ src: "/assets/Images/Images-For-OIF-Brand-Guide_5b.jpg"
 
 #### **Logo Don'ts**  
 
-Do not modify the logos in any way—only official, approved logos should be used. If a new version is needed, it must be reviewed by the team before being used. 
+Do not modify the logos in any way—only official, approved logos should be used. If a new version is needed, it must be reviewed by the team before being used. These rules apply to all foundation brands and member logos.  
 
 
 ```image
