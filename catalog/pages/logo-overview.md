@@ -1,6 +1,6 @@
 #### **Concept** 
 
-Borrowed from the visual vocabulary of civic infrastructure, such as road and transit signage, our logo features a stylized arrow as the primary icon. This arrow is inspired by the multi-colored lines found on transit maps and is composed of 4 lines to represent the [Four Opens](https://openinfra.dev/four-opens/). The theme alludes to the global nature of our community, our software’s use in literal civic infrastructure, and the idea that the foundation exists to help projects along their journey.
+Borrowed from the visual language of civic infrastructure, such as road and transit signage, our logo features a stylized arrow as the primary icon. This arrow is inspired by the multi-colored lines found on transit maps and is composed of 4 lines to represent the [Four Opens](https://openinfra.dev/four-opens/). The theme alludes to the global nature of our community, our software’s use in literal civic infrastructure, and the idea that the foundation exists to help projects along their journey.
 
 
 ```image
