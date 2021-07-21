@@ -1,4 +1,4 @@
-#### **Welcome** 
+## **Welcome** 
 
 Thanks for checking out the Open Infrastructure Foundation brand guide. This site was built using [Catalog](https://docs.catalog.style/). Documentation can be found [here](https://docs.catalog.style/).
 
