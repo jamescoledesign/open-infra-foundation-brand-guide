@@ -4,7 +4,7 @@ Thanks for checking out the Open Infrastructure Foundation brand guide. This sit
 
 **Dependencies**
 
-After installing locally, navigate to the correct direcotry and install all dependencies.
+After installing locally, navigate to the correct directory and install all dependencies.
 
 ```
 yarn
